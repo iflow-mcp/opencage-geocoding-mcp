@@ -1,5 +1,5 @@
 {
-	"name": "@opencage/mcp-opencage-server",
+	"name": "@iflow-mcp/opencage-geocoding-mcp",
 	"version": "1.0.3",
 	"description": "MCP server for OpenCage geocoding API",
 	"author": {
